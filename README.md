@@ -17,7 +17,6 @@ The primary data used for this analysis is '3mtt capstone.csv', which contains d
 ![Screenshot (102)](https://github.com/user-attachments/assets/2836e613-d787-4b7c-9d23-e11f7c64e2cf)
 ![image](https://github.com/user-attachments/assets/15eab334-574f-492f-bf85-501e1b214c15)
 ![image](https://github.com/user-attachments/assets/e26a7b9c-f5ba-45d9-9cae-f92440c12213)
-
 ### Data cleaning and preparation
 In the initial data cleaning and preparation phase, I performed the following tasks:
 1. Data loading into MS Excel and Inspection
