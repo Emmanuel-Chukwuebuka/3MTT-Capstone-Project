@@ -10,7 +10,7 @@
 ### Project Overview
 This project aims to evaluate the Factors affecting Students' overall academic performance at School using two schools (Gabriel Pereira and Mousinho da Silveira) as case studies.
 ### Data Source
-The primary data used for this analysis is '3mtt capstone.csv', which contains detailed information about each student in the schools in view. The dataset was originally obtained from Kaggle https://www.kaggle.com/datasets/devansodariya/student-performance-data
+The primary data used for this analysis is [3mtt capstone.csv](https://www.kaggle.com/datasets/devansodariya/student-performance-data), which contains detailed information about each student in the schools in view. The dataset was originally obtained from Kaggle.
 ### Tools
 - MS Excel - Data cleaning
 - Data cleaning, analysis, and creating reports
